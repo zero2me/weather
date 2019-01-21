@@ -1,0 +1,2 @@
+# weather
+first django app
